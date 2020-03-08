@@ -1,5 +1,0 @@
-com\cydvv\springcloud\service\PaymentService.class
-com\cydvv\springcloud\PaymentMain8001.class
-com\cydvv\springcloud\controller\PaymentController.class
-com\cydvv\springcloud\service\impl\PaymentServiceImpl.class
-com\cydvv\springcloud\dao\PaymentDao.class
