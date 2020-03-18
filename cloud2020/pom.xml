@@ -20,6 +20,7 @@
         <module>cloud-consumerconsul-order80</module>
         <module>cloud-consumer-feign-order80</module>
         <module>cloud-provider-Hystris-payment8001</module>
+        <module>cloud-consumer-feign-hystris-order80</module>
     </modules>
     <packaging>pom</packaging>
 
