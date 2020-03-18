@@ -63,4 +63,14 @@ public class PaymentController {
         return serverPort;
     }
 
+    @GetMapping(value = "/timeout")
+    public String create(){
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return serverPort;
+    }
+
 }
