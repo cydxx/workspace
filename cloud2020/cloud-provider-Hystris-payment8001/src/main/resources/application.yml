@@ -1,0 +1,12 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: cloud-provider-hystris-payment
+eureka:
+  client:
+    register-with-eureka: true
+    fatch-register: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
+
